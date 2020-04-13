@@ -4,14 +4,14 @@ Learn complete web development for free in a single place with realtime examples
 
 Share, Support, Subscribe!!!
 
-Youtube: https://www.youtube.com/learnWebCoding
+[Youtube:] (https://www.youtube.com/learnWebCoding)
 
-Facebook: https://www.facebook.com/learnWebCoding
+[Facebook:] (https://www.facebook.com/learnWebCoding)
 
-Instagram: https://www.instagram.com/learnwebcoding/
+[Instagram:] (https://www.instagram.com/learnwebcoding/)
 
-Twiter: https://twitter.com/learnwebcoding1
+[Twiter:] (https://twitter.com/learnwebcoding1)
 
-Blog: http://learn-web-coding.blogspot.com/
+[Blog:] (http://learn-web-coding.blogspot.com/)
 
-GitHub: https://github.com/durgesh-sahani
+[GitHub:] (https://github.com/durgesh-sahani)
