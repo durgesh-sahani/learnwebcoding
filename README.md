@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# learnWebCoding
 
-You can use the [editor on GitHub](https://github.com/durgesh-sahani/learnwebcoding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Learn complete web development for free in a single place with realtime examples. PHP, MYSQL, Laravel, REST API, MongoDB, HTML, CSS, JavaScript, JQuery, Ajax, NodeJs, BootStrap, Third-party API integrations like Google, Facebook, Twitter, AWS etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Share, Support, Subscribe!!!
 
-### Markdown
+Youtube: https://www.youtube.com/learnWebCoding
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Facebook: https://www.facebook.com/learnWebCoding
 
-```markdown
-Syntax highlighted code block
+Instagram: https://www.instagram.com/learnwebcoding/
 
-# Header 1
-## Header 2
-### Header 3
+Twiter: https://twitter.com/learnwebcoding1
 
-- Bulleted
-- List
+Blog: http://learn-web-coding.blogspot.com/
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/durgesh-sahani/learnwebcoding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+GitHub: https://github.com/durgesh-sahani
